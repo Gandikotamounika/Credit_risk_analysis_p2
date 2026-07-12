@@ -546,6 +546,6 @@ Credit-Risk-Assessment-Pipeline
 
 # 👨‍💻 Author
 
-CHAGARLAMUDI KUSUMA SRIYA 
+Gandikota Mounika
 
 Azure Data Engineer Project
