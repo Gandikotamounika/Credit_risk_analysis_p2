@@ -9,7 +9,7 @@
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 This project implements an **Enterprise End-to-End Credit Risk Assessment Pipeline** using Microsoft Azure services following the **ELT (Extract, Load, Transform)** approach and **Medallion Architecture (Bronze → Silver → Gold)**.
 
@@ -17,7 +17,7 @@ The solution ingests credit risk data from CSV files, converts them into Parquet
 
 ---
 
-# 🏢 Business Problem
+#  Business Problem
 
 Financial institutions receive thousands of loan applications every day.
 
@@ -34,7 +34,7 @@ The objective is to build a scalable platform that:
 
 ---
 
-# 🏗️ High Level Architecture
+#  High Level Architecture
 
 <p align="center">
   <img src="./ARCHITECTURE/credit%20risk%20analysis_HLD.png" width="100%">
@@ -42,7 +42,7 @@ The objective is to build a scalable platform that:
 
 ---
 
-# ⚙️ Low Level Architecture
+#  Low Level Architecture
 
 <p align="center">
   <img src="./ARCHITECTURE/credit%20risk%20analysis_Low%20level.png" width="100%">
@@ -50,7 +50,7 @@ The objective is to build a scalable platform that:
 
 ---
 
-# 🥉🥈🥇 Medallion Architecture
+# Medallion Architecture
 
 <p align="center">
   <img src="./ARCHITECTURE/Medallion_Architecture.png" width="100%">
@@ -58,7 +58,7 @@ The objective is to build a scalable platform that:
 
 ---
 
-# ⭐ Star Schema
+#  Star Schema
 
 <p align="center">
   <img src="./ARCHITECTURE/STAR_SCHEMA.jpeg" width="100%">
@@ -66,7 +66,7 @@ The objective is to build a scalable platform that:
 
 ---
 
-# 📋 Tables List
+#  Tables List
 
 <p align="center">
   <img src="./ARCHITECTURE/Tabels_list.jpeg" width="100%">
@@ -74,7 +74,7 @@ The objective is to build a scalable platform that:
 
 ---
 
-# 🚀 Technology Stack
+#  Technology Stack
 
 | Layer | Technology |
 |--------|------------|
@@ -93,7 +93,7 @@ The objective is to build a scalable platform that:
 
 ---
 
-# 📂 Source Dataset
+#  Source Dataset
 
 The project uses five source datasets.
 
@@ -107,7 +107,7 @@ economic_indicators.csv
 
 ---
 
-# 📁 Repository Structure
+#  Repository Structure
 
 ```text
 Credit_risk_analysis_p2
@@ -129,7 +129,7 @@ Credit_risk_analysis_p2
 
 ---
 
-# 📊 Dashboard
+#  Dashboard
 
 The dashboard is developed using:
 
@@ -147,7 +147,7 @@ Reports include:
 
 ---
 
-# 🔐 Security & Governance
+#  Security & Governance
 
 - Unity Catalog
 - Azure Key Vault
@@ -158,7 +158,7 @@ Reports include:
 
 ---
 
-# 🧪 Testing
+#  Testing
 
 - Unit Testing
 - Integration Testing
